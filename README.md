@@ -1,10 +1,6 @@
 # automacao-cadastro
 Automação de cadastros em sistema web utilizando Python, PyAutoGUI e Pandas para leitura de arquivos CSV e preenchimento automatizado de formulários.
 
-# Automação de Cadastro de Produtos com Python
-
-Projeto de automação desenvolvido durante meus estudos de Python, com o objetivo de automatizar o cadastro de produtos em um sistema web a partir de dados armazenados em um arquivo CSV.
-
 ## Tecnologias utilizadas
 
 - **Python** — lógica e execução da automação.
