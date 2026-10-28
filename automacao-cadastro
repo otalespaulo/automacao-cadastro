@@ -29,7 +29,7 @@ pyautogui.write("12345678")
 pyautogui.press("enter")
 time.sleep(2)
 
-# Passo 4: Cadastrar um produto
+# cadastrando um produto
 for linha in tabela.index:
     # clicar no campo de código
     pyautogui.click(x=480, y=250)
